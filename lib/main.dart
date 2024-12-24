@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_basic_product/pages/base_element_page.dart';
+import 'package:flutter_basic_product/pages/tutorial/base_element_page.dart';
 import 'package:flutter_basic_product/theme/app_theme.dart';
 import 'package:flutter_basic_product/widget/appBar/custom_app_bar.dart';
 
